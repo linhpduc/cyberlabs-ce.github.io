@@ -1,0 +1,39 @@
+---
+layout: post
+title: First Post
+subtitle: My first Post
+categories: Blochain
+author: BuiDat
+tags: [Solidity,Thuật toán đồng thuận]
+---
+
+* A safe integer is an integer that
+  * can be exactly represented as an IEEE-754 double precision number, and
+  * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
+* For example, $ 2 ^ {53} - 1 $ is a safe integer,
+  * it can be exactly represented 
+
+* A safe integer is an integer that
+  * can be exactly represented as an IEEE-754 double precision number, and
+  * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
+* For example, $ 2 ^ {53} - 1 $ is a safe integer,
+  * it can be exactly represented 
+
+* A safe integer is an integer that
+  * can be exactly represented as an IEEE-754 double precision number, and
+  * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
+* For example, $ 2 ^ {53} - 1 $ is a safe integer,
+  * it can be exactly represented 
+
+* A safe integer is an integer that
+  * can be exactly represented as an IEEE-754 double precision number, and
+  * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
+* For example, $ 2 ^ {53} - 1 $ is a safe integer,
+  * it can be exactly represented 
+
+* A safe integer is an integer that
+  * can be exactly represented as an IEEE-754 double precision number, and
+  * whose IEEE-75 representation cannot be the result of rounding any other integer to fit the IEEE-754 representation
+* For example, $ 2 ^ {53} - 1 $ is a safe integer,
+  * it can be exactly represented 
+
