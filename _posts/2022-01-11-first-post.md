@@ -3,7 +3,7 @@ layout: post
 title: First Post
 subtitle: My first Post
 categories: Blochain
-author: BuiDat
+author: Bùi Đạt
 tags: [Solidity,Thuật toán đồng thuận]
 ---
 

@@ -3,6 +3,7 @@
 // Define defaults for each variable.
 
 $base-font-family: Helvetica, Arial, Oswald, sans-serif, !default;
+// $base-font-family:'Times New Roman', Times, serif;
 $base-font-size: 14px !default;
 $base-font-weight: 400 !default;
 $small-font-size:  $base-font-size * 0.875 !default;
@@ -49,6 +50,7 @@ $on-laptop:        800px !default;
 @mixin media-query($device) {
   @media screen and (max-width: $device) {
     @content;
+    // font-family: ;
   }
 }
 
